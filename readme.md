@@ -41,8 +41,11 @@ This website was built to represent my **personal brand** and provide an interac
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/your-screenshot-id" width="90%" alt="Portfolio Screenshot"/>
   <img width="1885" height="867" alt="image" src="https://github.com/user-attachments/assets/4c4795ca-6ed0-40ac-a4d5-cd8a25890b0d" />
+  <img width="1892" height="860" alt="image" src="https://github.com/user-attachments/assets/ab97dd72-fcd5-435c-9247-5946a2728a39" />
+  <img width="1906" height="868" alt="image" src="https://github.com/user-attachments/assets/d86d3fea-dbdc-4381-a5b8-df4ba47972af" />
+  <img width="1901" height="773" alt="image" src="https://github.com/user-attachments/assets/aa79f1e2-7693-4109-b004-dacba2ef27e4" />
+  <img width="1894" height="795" alt="image" src="https://github.com/user-attachments/assets/d5867767-ccc2-44ca-8b01-b30ff11a2b38" />
 
 </p>
 
