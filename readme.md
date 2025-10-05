@@ -80,10 +80,6 @@ This website was built to represent my **personal brand** and provide an interac
 </p>
 
 ---
-
-
----
-
 ## ⚙️ Installation & Usage
 
 ```bash
