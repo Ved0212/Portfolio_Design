@@ -73,7 +73,7 @@ This website was built to represent my **personal brand** and provide an interac
 | Version Control | Git, GitHub |
 | Deployment | GitHub Pages |
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,git,github" />
   </a>
