@@ -34,9 +34,7 @@ This website was built to represent my **personal brand** and provide an interac
 
 🔗 **Live Website:** [https://ved0212.github.io/Portfolio_Design/](https://ved0212.github.io/Portfolio_Design/)  
 🎥 **Hosted on GitHub Pages** — Deployed automatically with each update.  
-<p align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" alt="demo gif"/>
-</p>
+
 
 ---
 
@@ -44,6 +42,8 @@ This website was built to represent my **personal brand** and provide an interac
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/your-screenshot-id" width="90%" alt="Portfolio Screenshot"/>
+  <img width="1885" height="867" alt="image" src="https://github.com/user-attachments/assets/4c4795ca-6ed0-40ac-a4d5-cd8a25890b0d" />
+
 </p>
 
 ---
